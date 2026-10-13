@@ -1,0 +1,12 @@
+2026-10-06 01:28:49 INFO  com.example.App - Starting Calculator application...
+2026-10-06 01:28:49 INFO  com.example.App - Adding numbers: 10 + 5 = 15
+2026-10-06 01:28:49 INFO  com.example.App - Attempting division: 10 / 0
+2026-10-06 01:28:49 ERROR com.example.Calculator - Division by zero: a=10, b=0
+2026-10-06 01:28:49 WARN  com.example.App - Caught exception in main: Cannot divide by zero
+2026-10-06 01:28:49 INFO  com.example.App - Application finished.
+2026-10-07 10:14:49 INFO  com.example.App - Starting Calculator application...
+2026-10-07 10:14:49 INFO  com.example.App - Adding numbers: 10 + 5 = 15
+2026-10-07 10:14:49 INFO  com.example.App - Attempting division: 10 / 0
+2026-10-07 10:14:49 ERROR com.example.Calculator - Division by zero: a=10, b=0
+2026-10-07 10:14:49 WARN  com.example.App - Caught exception in main: Cannot divide by zero
+2026-10-07 10:14:49 INFO  com.example.App - Application finished.
