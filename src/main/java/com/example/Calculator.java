@@ -26,7 +26,8 @@ public class Calculator {
         return a * b;
     }
 
+    /* 
     public int add(int a, int b) {
-    return a - b; // خطأ متعمد لاختبار CI
-    }
+    return a - b; // خطأ متعمد لاختبار 
+    }*/
 }
